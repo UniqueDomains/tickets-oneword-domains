@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.TICKETS one word doma
 
 | Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.tickets      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.tickets      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.tickets  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.tickets      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.tickets  | available | 58       | 7%     | 9      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.TICKETS one word doma
 | abatic.tickets     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.tickets    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.tickets   | available | 50       | 1%     | 8      |           |         |         |
-| abc.tickets        | available | 102      | 41%    | 3      |           |         |         |
+| abc.tickets        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.tickets  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.tickets  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.tickets | available | 56       | 1%     | 10     |           |         |         |

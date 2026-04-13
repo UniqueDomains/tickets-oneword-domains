@@ -70,10 +70,10 @@ print(df.head())
 | seventeen.tickets  | available | $399.99   | $664.99       | 84             | 62     | 9      | name.com                    |
 | hot.tickets        | resell    | —         | —             | 98             | 41     | 3      | TLD Registrar Solutions Ltd |
 | nationwide.tickets | premium   | $1,875    | $1,875        | 76             | 66     | 10     | name.com                    |
-| free.tickets       | available | $399.99   | $664.99       | 88             | 59     | 4      | name.com                    |
+| ace.tickets        | available | $399.99   | $664.99       | 88             | 57     | 3      | name.com                    |
 | cheap.tickets      | resell    | —         | —             | 110            | 30     | 5      | TLD Registrar Solutions Ltd |
 | alpha.tickets      | premium   | $1,875    | $1,875        | 90             | 53     | 5      | name.com                    |
-| ace.tickets        | available | $399.99   | $664.99       | 88             | 57     | 3      | name.com                    |
+| free.tickets       | available | $399.99   | $664.99       | 88             | 57     | 4      | name.com                    |
 | bus.tickets        | resell    | —         | —             | 98             | 30     | 3      | TLD Registrar Solutions Ltd |
 | art.tickets        | premium   | $1,950    | $1,950        | 90             | 52     | 3      | namecheap                   |
 | data.tickets       | available | $568      | —             | 70             | 56     | 4      | namecheap                   |

@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .tickets one-word domains from Uni
 
 **Public extract:** 9,833 rows · **Live catalog:** 9,833 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/tickets`  
 **Best for:** founders, investors, studios
 
@@ -71,8 +71,8 @@ print(df.head())
 | hot.tickets        | resell    | —         | —             | 98             | 41     | 3      | TLD Registrar Solutions Ltd |
 | nationwide.tickets | premium   | $1,875    | $1,875        | 76             | 66     | 10     | name.com                    |
 | free.tickets       | available | $399.99   | $664.99       | 88             | 59     | 4      | name.com                    |
-| cheap.tickets      | resell    | —         | —             | 110            | 31     | 5      | TLD Registrar Solutions Ltd |
-| alpha.tickets      | premium   | $1,875    | $1,875        | 90             | 54     | 5      | name.com                    |
+| cheap.tickets      | resell    | —         | —             | 110            | 30     | 5      | TLD Registrar Solutions Ltd |
+| alpha.tickets      | premium   | $1,875    | $1,875        | 90             | 53     | 5      | name.com                    |
 | ace.tickets        | available | $399.99   | $664.99       | 88             | 57     | 3      | name.com                    |
 | bus.tickets        | resell    | —         | —             | 98             | 30     | 3      | TLD Registrar Solutions Ltd |
 | art.tickets        | premium   | $1,950    | $1,950        | 90             | 52     | 3      | namecheap                   |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

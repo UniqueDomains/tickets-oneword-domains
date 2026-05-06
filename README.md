@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .tickets one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,822 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,822 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,822 domains · **Median ask:** $442.41 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/tickets`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| winners.tickets        | available | $359.99   | $389.99       | 60             | 81     | 7      | namesilo  |
-| insight.tickets        | premium   | $1,875    | —             | 76             | 69     | 8      | name.com  |
-| makers.tickets         | available | $359.99   | $389.99       | 62             | 67     | 6      | namesilo  |
-| Ryan.tickets           | premium   | $2,100    | $2,100        | 60             | 44     | 4      | namecheap |
-| agents.tickets         | available | $399.99   | —             | 56             | 50     | 6      | name.com  |
-| Cats.tickets           | premium   | $2,100    | $2,100        | 59             | 33     | 4      | namecheap |
-| cars.tickets           | available | $399.99   | —             | 66             | 47     | 4      | name.com  |
-| bills.tickets          | premium   | $1,875    | —             | 54             | 19     | 5      | name.com  |
-| jobs.tickets           | available | $399.99   | —             | 79             | 42     | 4      | name.com  |
-| weddings.tickets       | premium   | $1,875    | —             | 64             | 18     | 8      | name.com  |
-| shortcuts.tickets      | available | $399.99   | —             | 48             | 41     | 10     | name.com  |
-| hookup.tickets         | premium   | $1,875    | —             | 76             | 16     | 7      | name.com  |
-| matcha.tickets         | available | $399.99   | —             | 86             | 39     | 6      | name.com  |
-| beaches.tickets        | premium   | $1,875    | —             | 72             | 14     | 7      | name.com  |
-| neuroscience.tickets   | available | $399.99   | —             | 80             | 37     | 12     | name.com  |
-| lordoftherings.tickets | premium   | $1,875    | —             | 80             | 5      | 17     | name.com  |
-| aliens.tickets         | available | $359.99   | $389.99       | 56             | 35     | 6      | namesilo  |
-| etc.tickets            | available | $399.99   | —             | 58             | 34     | 3      | name.com  |
-| partners.tickets       | available | $399.99   | —             | 61             | 32     | 8      | name.com  |
-| trends.tickets         | available | $399.99   | —             | 60             | 32     | 6      | name.com  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| finals.tickets    | available | $359.99   | $389.99       | 80             | 7      | 6      | namesilo  |
+| geton.tickets     | available | $399.99   | —             | 82             | 10     | 6      | name.com  |
+| matcha.tickets    | available | $399.99   | —             | 86             | 39     | 6      | name.com  |
+| Apples.tickets    | available | $568      | —             | 90             | 16     | 6      | namecheap |
+| edamame.tickets   | available | $359.99   | $389.99       | 80             | 9      | 7      | namesilo  |
+| playin.tickets    | available | $399.99   | —             | 80             | 10     | 7      | name.com  |
+| playon.tickets    | available | $399.99   | —             | 80             | 14     | 7      | name.com  |
+| winners.tickets   | available | $359.99   | $389.99       | 60             | 81     | 7      | namesilo  |
+| insight.tickets   | premium   | $1,875    | —             | 76             | 69     | 8      | name.com  |
+| makers.tickets    | available | $359.99   | $389.99       | 62             | 67     | 6      | namesilo  |
+| Ryan.tickets      | premium   | $2,100    | $2,100        | 60             | 44     | 4      | namecheap |
+| agents.tickets    | available | $399.99   | —             | 56             | 50     | 6      | name.com  |
+| Cats.tickets      | premium   | $2,100    | $2,100        | 59             | 33     | 4      | namecheap |
+| cars.tickets      | available | $399.99   | —             | 66             | 47     | 4      | name.com  |
+| bills.tickets     | premium   | $1,875    | —             | 54             | 19     | 5      | name.com  |
+| jobs.tickets      | available | $399.99   | —             | 79             | 42     | 4      | name.com  |
+| weddings.tickets  | premium   | $1,875    | —             | 64             | 18     | 8      | name.com  |
+| shortcuts.tickets | available | $399.99   | —             | 48             | 41     | 10     | name.com  |
+| hookup.tickets    | premium   | $1,875    | —             | 76             | 16     | 7      | name.com  |
+| beaches.tickets   | premium   | $1,875    | —             | 72             | 14     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,822 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,822 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are one-word names on the .tickets extension. The set includes direct, category-led terms such as tips.tickets and finals.tickets, plus broader words like homes.tickets and forces.tickets. For founders, the main question is whether the word has a clear ticketing, events, access, venue, or entertainment angle that makes the extension feel natural. For investors, the key test is resale fit: a strong word can still be limited by a niche extension. When comparing these domains, focus on commercial relevance, memorability, spelling clarity, and whether the ask leaves room for realistic resale or end-user adoption.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Best fits are words that pair naturally with ticketing use cases
+- Median ask is $442.41 across this .tickets selection
+- Generic words may read broadly but fit the extension less cleanly
+- Favor clear spelling, strong recall, and category relevance
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

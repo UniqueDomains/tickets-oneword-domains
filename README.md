@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .tickets one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,822 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,822 domains · **Median ask:** $442.41 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,822 domains · **Median ask:** $433.00 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/tickets`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/tickets`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TICKETS one-word doma
 
 ### Files
 
-- `tickets.csv` — public CSV extract (1,000 rows)
-- `tickets.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `tickets.csv`, public CSV extract (1,000 rows)
+- `tickets.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| finals.tickets    | available | $359.99   | $389.99       | 80             | 7      | 6      | namesilo  |
-| geton.tickets     | available | $399.99   | —             | 82             | 10     | 6      | name.com  |
-| matcha.tickets    | available | $399.99   | —             | 86             | 39     | 6      | name.com  |
-| Apples.tickets    | available | $568      | —             | 90             | 16     | 6      | namecheap |
-| edamame.tickets   | available | $359.99   | $389.99       | 80             | 9      | 7      | namesilo  |
-| playin.tickets    | available | $399.99   | —             | 80             | 10     | 7      | name.com  |
-| playon.tickets    | available | $399.99   | —             | 80             | 14     | 7      | name.com  |
-| winners.tickets   | available | $359.99   | $389.99       | 60             | 81     | 7      | namesilo  |
-| insight.tickets   | premium   | $1,875    | —             | 76             | 69     | 8      | name.com  |
-| makers.tickets    | available | $359.99   | $389.99       | 62             | 67     | 6      | namesilo  |
-| Ryan.tickets      | premium   | $2,100    | $2,100        | 60             | 44     | 4      | namecheap |
-| agents.tickets    | available | $399.99   | —             | 56             | 50     | 6      | name.com  |
-| Cats.tickets      | premium   | $2,100    | $2,100        | 59             | 33     | 4      | namecheap |
-| cars.tickets      | available | $399.99   | —             | 66             | 47     | 4      | name.com  |
-| bills.tickets     | premium   | $1,875    | —             | 54             | 19     | 5      | name.com  |
-| jobs.tickets      | available | $399.99   | —             | 79             | 42     | 4      | name.com  |
-| weddings.tickets  | premium   | $1,875    | —             | 64             | 18     | 8      | name.com  |
-| shortcuts.tickets | available | $399.99   | —             | 48             | 41     | 10     | name.com  |
-| hookup.tickets    | premium   | $1,875    | —             | 76             | 16     | 7      | name.com  |
-| beaches.tickets   | premium   | $1,875    | —             | 72             | 14     | 7      | name.com  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| add.tickets    | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
+| season.tickets | resell    | —         | —             | high           | low    | 6      | Go Daddy, LLC |
+| cat.tickets    | premium   | $1,875    | —             | high           | high   | 3      | name.com      |
+| ale.tickets    | available | $359.99   | $389.99       | medium         | low    | 3      | namesilo      |
+| best.tickets   | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
+| and.tickets    | available | $359.99   | $389.99       | high           | medium | 3      | namesilo      |
+| ever.tickets   | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
+| ane.tickets    | available | $359.99   | $389.99       | low            | low    | 3      | namesilo      |
+| gold.tickets   | premium   | $1,950    | $1,950        | high           | medium | 4      | namecheap     |
+| Ann.tickets    | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
+| grow.tickets   | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
+| AOL.tickets    | available | $359.99   | $389.99       | high           | high   | 3      | namesilo      |
+| nest.tickets   | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
+| bob.tickets    | available | $359.99   | $389.99       | high           | medium | 3      | namesilo      |
+| post.tickets   | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
+| cot.tickets    | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
+| push.tickets   | premium   | $1,875    | —             | high           | low    | 4      | name.com      |
+| dew.tickets    | available | $359.99   | $389.99       | medium         | low    | 3      | namesilo      |
+| soap.tickets   | premium   | $1,875    | —             | high           | low    | 4      | name.com      |
+| dry.tickets    | available | $399.99   | $664.99       | high           | low    | 3      | name.com      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .tickets extension. The set includes direct, category-led terms such as tips.tickets and finals.tickets, plus broader words like homes.tickets and forces.tickets. For founders, the main question is whether the word has a clear ticketing, events, access, venue, or entertainment angle that makes the extension feel natural. For investors, the key test is resale fit: a strong word can still be limited by a niche extension. When comparing these domains, focus on commercial relevance, memorability, spelling clarity, and whether the ask leaves room for realistic resale or end-user adoption.
+This is a curated set of one-word .tickets domain names built from single dictionary words and short compound terms. It currently includes 12,822 options with a median asking price of $433, refreshed daily. Domains here fit events, travel, entertainment, and ticketing-adjacent brands, and vary in length, spelling clarity, and brandability. When comparing names in this list, weigh price against memorability, spelling ease, and relevance to your niche before shortlisting your top picks.
 
-- Best fits are words that pair naturally with ticketing use cases
-- Median ask is $442.41 across this .tickets selection
-- Generic words may read broadly but fit the extension less cleanly
-- Favor clear spelling, strong recall, and category relevance
+- 12,822 one-word .tickets domains in this set
+- Median ask across the set: $433
+- Brandable, ownable-now names for events & travel
+- Compare spelling clarity and length before shortlisting
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

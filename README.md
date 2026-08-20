@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tickets one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,812 domains · **Median ask:** $408.92 · **High-demand under $2,500:** 79
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/tickets`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| half.tickets   | available | $359.99   | $389.99       | high           | low    | 4      | namesilo      |
-| okay.tickets   | available | $399.99   | $664.99       | high           | low    | 4      | name.com      |
 | add.tickets    | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
 | season.tickets | resell    | —         | —             | high           | low    | 6      | Go Daddy, LLC |
 | cat.tickets    | premium   | $1,875    | —             | high           | high   | 3      | name.com      |
@@ -84,6 +82,8 @@ print(df.head())
 | bob.tickets    | available | $359.99   | $389.99       | high           | medium | 3      | namesilo      |
 | post.tickets   | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
 | clx.tickets    | available | $359.99   | $389.99       | low            | low    | 3      | namesilo      |
+| push.tickets   | premium   | $1,875    | —             | high           | low    | 4      | name.com      |
+| cot.tickets    | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

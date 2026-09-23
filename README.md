@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tickets one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,005 domains · **Median ask:** $397.15 · **High-demand under $2,500:** 80
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/tickets`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| half.tickets   | available | $359.99   | $389.99       | high           | low    | 4      | namesilo      |
-| okay.tickets   | available | $399.99   | $664.99       | high           | low    | 4      | name.com      |
 | add.tickets    | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
 | season.tickets | resell    | —         | —             | high           | low    | 6      | Go Daddy, LLC |
 | cat.tickets    | premium   | $1,875    | —             | high           | high   | 3      | name.com      |
 | ale.tickets    | available | $359.99   | $389.99       | medium         | low    | 3      | namesilo      |
-| best.tickets   | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
+| best.tickets   | premium   | $1,950    | $1,950        | medium         | low    | 4      | namecheap     |
 | and.tickets    | available | $359.99   | $389.99       | high           | medium | 3      | namesilo      |
 | ever.tickets   | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
 | ane.tickets    | available | $359.99   | $389.99       | low            | low    | 3      | namesilo      |
-| gold.tickets   | premium   | $1,950    | $1,950        | high           | medium | 4      | namecheap     |
+| gold.tickets   | premium   | $1,995    | $1,995        | low            | low    | 4      | namesilo      |
 | ann.tickets    | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
 | grow.tickets   | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
 | aol.tickets    | available | $359.99   | $389.99       | high           | high   | 3      | namesilo      |
 | lush.tickets   | premium   | $1,875    | $1,875        | medium         | medium | 4      | name.com      |
 | ass.tickets    | available | $359.99   | $389.99       | low            | low    | 3      | namesilo      |
 | nest.tickets   | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
-| bob.tickets    | available | $359.99   | $389.99       | high           | medium | 3      | namesilo      |
+| bob.tickets    | available | $359.99   | $488.88       | medium         | low    | 3      | namesilo      |
 | post.tickets   | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
 | clx.tickets    | available | $359.99   | $389.99       | low            | low    | 3      | namesilo      |
+| push.tickets   | premium   | $1,875    | —             | high           | low    | 4      | name.com      |
+| cot.tickets    | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

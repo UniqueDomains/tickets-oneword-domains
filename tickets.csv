@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 a76860cb-0880-4c6c-9f0b-d0648e74e46d,oppositive.tickets,available,359.99,389.99,low,low,10,namesilo,,,
 ba186608-df0e-4863-bb18-904b91e8f50d,friend.tickets,available,359.99,389.99,high,low,6,namesilo,,,
-0f6a2576-6167-4ac5-91e6-35cb0671796b,heart.tickets,available,359.99,389.99,high,low,5,namesilo,,,
+0f6a2576-6167-4ac5-91e6-35cb0671796b,heart.tickets,available,393.98,608.98,medium,low,5,namecheap,,,23/09/2026 13:28
 fa77802a-6483-43f2-ba13-6eca0a8b8b92,abovethefold.tickets,available,359.99,389.99,low,low,14,namesilo,,,
 ff5473a3-fee1-4081-87ba-5c1e9ba2d42f,gratitude.tickets,available,399.99,,high,low,9,name.com,,,
 9f152aef-057a-4dfc-9d7e-b80ba9ebd652,rulesarerules.tickets,available,399.99,,medium,low,15,name.com,,,
@@ -25,7 +25,7 @@ ea442cc3-dac9-40d7-99bf-4773077a781b,combat.tickets,available,359.99,389.99,high
 2ce632cd-f81c-4aa4-bac5-ba02bdaaa004,socialliberal.tickets,available,359.99,389.99,low,low,14,namesilo,,,
 ad58fc71-0667-4638-baf4-7d627e222184,oldest.tickets,available,359.99,389.99,high,low,6,namesilo,,,
 cfbf93e2-ed95-4157-82f1-5a3b4b204ec5,words.tickets,available,359.99,389.99,high,low,5,namesilo,,,
-476f944b-f620-4e6e-a7b5-99a3d04c35c9,logo.tickets,available,359.99,389.99,medium,low,4,namesilo,,,
+476f944b-f620-4e6e-a7b5-99a3d04c35c9,logo.tickets,available,359.99,488.88,medium,low,4,namesilo,,,23/09/2026 08:54
 25632979-e31a-4cc7-8d5c-0e8c08a7f446,guide.tickets,available,399.99,,high,low,5,name.com,,,
 22872610-8b68-421d-b3f2-9bd2d5ee341e,relationship.tickets,available,359.99,389.99,high,low,12,namesilo,,,
 efc4f630-c270-455b-82d0-b8eeb6b98dca,handin.tickets,available,399.99,,medium,low,7,name.com,,,
@@ -111,7 +111,7 @@ ead0a528-8e77-413a-ab85-8dcf20b73345,otic.tickets,available,359.99,389.99,low,lo
 95fdcd6f-cd0d-4846-b3b3-773c224b1d12,terrible.tickets,available,359.99,488.88,low,low,8,namesilo,,,22/09/2026 15:19
 a971cf5d-bce0-404c-9280-24942bc22218,trip.tickets,available,359.99,488.88,medium,low,4,namesilo,,,08/09/2026 04:57
 08af6fdb-214e-4f38-a6be-438e282a398f,falldown.tickets,available,359.99,389.99,medium,low,9,namesilo,,,
-75b1b9b1-0d91-43d7-bb0b-576f117b8b65,cinema.tickets,available,359.99,488.88,medium,low,6,namesilo,,,19/09/2026 09:58
+75b1b9b1-0d91-43d7-bb0b-576f117b8b65,cinema.tickets,available,393.98,608.98,medium,low,6,namecheap,,,23/09/2026 07:48
 2c02b333-9026-4612-8cd0-010a04ec6141,defence.tickets,available,399.99,,high,low,7,name.com,,,
 403d46e2-b278-4e3f-807c-e4a9240af49c,mexicocity.tickets,available,359.99,389.99,medium,low,11,namesilo,,,
 26f6de4d-7805-4628-be00-59aefef4ce70,further.tickets,available,359.99,389.99,high,low,7,namesilo,,,
@@ -130,7 +130,7 @@ cf21e39f-a2a7-425a-9790-a5948b67c550,existent.tickets,available,393.98,568,low,l
 78d98739-4642-42c4-81e9-bd082813a140,fist.tickets,available,359.99,389.99,high,low,4,namesilo,,,
 81b5d0a4-2d88-4454-b879-1b13170372ba,hardwork.tickets,available,359.99,389.99,high,low,9,namesilo,,,
 8203c3d1-1703-426a-8385-b2feba2e1012,hairbrush.tickets,available,399.99,,high,low,10,name.com,,,
-e03f3a7f-d03f-4a3b-b68d-6a13b3c6dc19,virtual.tickets,premium,1995,1995,medium,low,7,namesilo,,,19/09/2026 09:02
+e03f3a7f-d03f-4a3b-b68d-6a13b3c6dc19,virtual.tickets,premium,1995,1995,medium,low,7,namesilo,,,23/09/2026 07:18
 f2058df9-2603-4fb3-8bab-bfdf2d89a6e1,amoeboid.tickets,available,359.99,389.99,low,low,8,namesilo,,,
 7bcc379c-c58f-4e32-a228-854100156117,stmoritz.tickets,available,359.99,389.99,medium,low,10,namesilo,,,
 71cb2c7d-79a8-4b40-8d22-2c64751b053f,deflation.tickets,available,359.99,389.99,medium,low,9,namesilo,,,
@@ -141,7 +141,7 @@ f2058df9-2603-4fb3-8bab-bfdf2d89a6e1,amoeboid.tickets,available,359.99,389.99,lo
 12b90a02-ddeb-4cf9-97ff-47ab64b13ff7,resume.tickets,available,399.99,664.99,high,low,6,name.com,,,
 f3f5d8cf-9a11-493f-b51b-df9d350db3a2,kindred.tickets,premium,1875,1875,low,low,7,name.com,,,
 d4faada1-73f0-4ea0-b5ba-99e9bbad1e24,auriferous.tickets,available,393.98,608.98,low,low,10,namecheap,,,22/09/2026 13:02
-67eff84a-be24-49fa-af40-bc8fb328c5f4,industry.tickets,available,359.99,488.88,low,low,8,namesilo,,,19/09/2026 13:49
+67eff84a-be24-49fa-af40-bc8fb328c5f4,industry.tickets,available,393.98,608.98,low,low,8,namecheap,,,23/09/2026 16:53
 5d922ebe-c14e-4aba-9ae8-5e6118ec4fb6,takepart.tickets,available,359.99,389.99,medium,low,9,namesilo,,,
 11d9f6f5-468f-495a-a07c-1f97772976da,wheezy.tickets,available,359.99,389.99,low,low,6,namesilo,,,07/08/2026 09:31
 18b686d7-eddc-4863-8a24-d55d218c418a,aldehydic.tickets,available,359.99,389.99,low,low,9,namesilo,,,
@@ -171,7 +171,7 @@ efa26f8c-a878-472a-b25d-8f5b5b873eab,topnotch.tickets,available,359.99,389.99,lo
 e5f1068b-94d9-40dd-949a-7999dd8993ce,spartacus.tickets,available,359.99,389.99,medium,low,9,namesilo,,,
 40f6a54f-c188-4f5b-b4ae-6bd55e38f4bb,norm.tickets,available,393.98,608.98,medium,low,4,namecheap,,,22/09/2026 14:30
 44542bac-1b7b-492d-a116-c2ec9d3c4e77,lettuce.tickets,available,399.99,,high,low,7,name.com,,,
-32b7a43e-32db-4bf3-8aa8-d1af846c5584,communist.tickets,available,399.99,664.99,high,low,9,name.com,,,
+32b7a43e-32db-4bf3-8aa8-d1af846c5584,communist.tickets,available,359.99,488.88,low,low,9,namesilo,,,23/09/2026 16:14
 a664f7ec-bafa-4b24-8162-adc81411720e,christ.tickets,premium,1875,,high,low,6,name.com,,,
 68bd2ca2-2ddd-4878-a18e-c583e2484a43,opportunityclass.tickets,available,359.99,389.99,high,low,17,namesilo,,,
 8ce56462-6be5-425f-a7d8-bad315726342,twothousand.tickets,available,359.99,389.99,low,low,12,namesilo,,,
@@ -212,12 +212,12 @@ b34ec1a5-e5ae-4282-8d78-b9dbcd9547d3,captain.tickets,available,359.99,389.99,hig
 1c3d8a35-5c26-4f66-9d16-5a9c9d72684c,previous.tickets,available,359.99,389.99,high,low,8,namesilo,,,
 6da36cfd-e46f-4640-8588-cb9e244d1076,brainwash.tickets,available,359.99,389.99,high,low,9,namesilo,,,
 828850cd-cb1a-4994-9a64-bcc0b2a1a72b,moi.tickets,available,359.99,389.99,high,low,3,namesilo,,,
-641be402-102e-406c-90e2-05b48721f1a9,thermal.tickets,available,359.99,389.99,medium,low,7,namesilo,,,
+641be402-102e-406c-90e2-05b48721f1a9,thermal.tickets,available,359.99,488.88,low,low,7,namesilo,,,23/09/2026 12:37
 e86812c6-9315-4750-a252-742e1bf39c76,acetose.tickets,available,359.99,389.99,low,low,7,namesilo,,,
 11ea28a7-ef9e-412d-93bf-7c502867c368,footballer.tickets,available,359.99,389.99,high,low,10,namesilo,,,
 a72bd8b2-9fdd-4f7c-a498-a42134777d6c,cadillac.tickets,premium,1875,,high,low,8,name.com,,,
 17c70504-6a1f-46e9-a010-a9b0064b22e7,arbitrary.tickets,available,359.99,389.99,low,low,9,namesilo,,,06/08/2026 12:54
-dfc8d09c-49a6-4cbf-aaf0-3fc64b7de96f,crowded.tickets,available,399.99,664.99,medium,low,7,name.com,,,
+dfc8d09c-49a6-4cbf-aaf0-3fc64b7de96f,crowded.tickets,available,393.98,608.98,low,low,7,namecheap,,,24/09/2026 02:10
 2a9df0b4-b87f-4fe7-89d2-9eb0e721e0d3,mop.tickets,available,399.99,,high,low,3,name.com,,,
 75e09276-41d7-492d-a758-1bd16636e2f8,baculiform.tickets,available,359.99,389.99,low,low,10,namesilo,,,08/08/2026 05:01
 2614a049-555a-44a3-ba28-4c5b6cd4276c,wellcovered.tickets,available,359.99,389.99,high,low,12,namesilo,,,
@@ -228,12 +228,12 @@ e90a1b16-ed14-4470-a2c0-54e3d331855b,lxxii.tickets,available,359.99,389.99,low,l
 ec3da980-eb91-4878-9bad-0d7f3071af57,acrogenous.tickets,available,359.99,389.99,low,low,10,namesilo,,,
 7e11dddb-6cc8-40b4-85cb-8891184d5e52,alltime.tickets,available,359.99,488.88,medium,low,8,namesilo,,,22/09/2026 00:54
 0543c10e-02ec-4c38-8e23-e60cd7d1d39a,half.tickets,available,359.99,389.99,high,low,4,namesilo,,,
-c6fac2e3-758e-459e-b71f-bda638368798,feature.tickets,available,359.99,389.99,high,low,7,namesilo,,,
+c6fac2e3-758e-459e-b71f-bda638368798,feature.tickets,available,359.99,488.88,medium,low,7,namesilo,,,23/09/2026 13:48
 7cbc1475-7026-4976-94a1-96f1d8a1484f,fort.tickets,available,359.99,389.99,medium,low,4,namesilo,,,
 6124a1e3-8f9c-4028-8219-d5aefc52e5e0,cutrate.tickets,available,359.99,389.99,low,low,8,namesilo,,,08/08/2026 19:20
 fe796127-a852-4d3a-ac18-b80fcfbd124d,stepmother.tickets,available,399.99,,medium,low,10,name.com,,,
 90cc7ff4-38fa-4c64-8a8a-56e6f7b4cb38,aspherical.tickets,available,359.99,389.99,low,low,10,namesilo,,,07/08/2026 04:57
-3ccb131a-69f0-4496-869d-e3ade5cbf01d,contrary.tickets,available,399.99,664.99,high,low,8,name.com,,,
+3ccb131a-69f0-4496-869d-e3ade5cbf01d,contrary.tickets,available,359.99,488.88,low,low,8,namesilo,,,23/09/2026 22:29
 ebadc23f-0c06-42e3-a6af-abec42c3b3a9,form.tickets,available,359.99,389.99,high,low,4,namesilo,,,
 a69c719d-d138-4792-b461-819a02224e65,whoreson.tickets,available,359.99,389.99,low,low,8,namesilo,,,08/08/2026 23:43
 a8bcd456-e3ff-4b69-af7a-e1e793e6d379,wounded.tickets,available,359.99,389.99,medium,low,7,namesilo,,,
@@ -242,7 +242,7 @@ a8bcd456-e3ff-4b69-af7a-e1e793e6d379,wounded.tickets,available,359.99,389.99,med
 ca7a7356-dfe4-4bf1-9e24-aeea72aca84d,bedless.tickets,available,359.99,389.99,low,low,7,namesilo,,,09/08/2026 07:23
 0d6ea5fb-5119-4797-a4bd-42782c00bab3,accurately.tickets,available,359.99,389.99,medium,low,10,namesilo,,,
 260aee3a-66dd-4e99-afbb-0221db364b72,government.tickets,available,359.99,389.99,high,low,10,namesilo,,,
-f6208236-a0c0-4f36-9af8-314d6b4ba9d9,environment.tickets,available,359.99,488.88,medium,low,11,namesilo,,,19/09/2026 04:45
+f6208236-a0c0-4f36-9af8-314d6b4ba9d9,environment.tickets,available,359.99,488.88,medium,low,11,namesilo,,,23/09/2026 08:17
 951227a2-736e-41ca-b6db-206b6718b04b,barehanded.tickets,available,393.98,568,low,low,10,namecheap,,,08/08/2026 19:10
 67709ba8-7f8f-42d7-b1ff-1aeee18020eb,diversify.tickets,available,359.99,389.99,high,low,9,namesilo,,,
 c3ec087f-4bdb-45b3-8d93-7e65a462b7f3,quitean.tickets,available,359.99,389.99,medium,low,8,namesilo,,,
@@ -329,7 +329,7 @@ b101d96c-ae09-43b4-b878-ea3b69b3481a,acceptive.tickets,available,359.99,389.99,l
 3d890b17-975e-4dc7-a2d2-69e161682fed,playoff.tickets,available,359.99,389.99,high,low,8,namesilo,,,
 7ea2c8e2-7372-4716-adfd-2746308acc69,kindly.tickets,available,359.99,389.99,high,low,6,namesilo,,,
 53fda735-ad58-4e44-bb20-8f39e967bb37,understood.tickets,available,359.99,389.99,high,low,10,namesilo,,,
-305ea653-647e-4703-b332-6a25a63d2411,compulsory.tickets,available,399.99,664.99,high,low,10,name.com,,,
+305ea653-647e-4703-b332-6a25a63d2411,compulsory.tickets,available,393.98,608.98,medium,low,10,namecheap,,,23/09/2026 18:17
 d86d1ba9-4cc5-4460-9ba9-4ec4323f6ce6,abovecited.tickets,available,359.99,389.99,low,low,11,namesilo,,,
 d5589980-7b51-449b-ac9e-89be5aedc3b4,for.tickets,available,359.99,389.99,high,medium,3,namesilo,,,
 024d6acf-70c7-42b1-ad7f-4bd2d187ea2b,antenatal.tickets,available,359.99,488.88,medium,low,9,namesilo,,,22/09/2026 05:59
@@ -343,7 +343,7 @@ e4a1bfc9-c7b8-4904-84f0-ddf1e7fd6c09,bumpinto.tickets,available,359.99,389.99,me
 f0d457fd-4c04-41b2-9a6f-23f3cb302e92,tape.tickets,available,359.99,389.99,high,low,4,namesilo,,,
 b04bbf33-b90c-41e8-8551-e3bbd548e267,anatomical.tickets,available,359.99,389.99,low,low,10,namesilo,,,
 8b0e1ae3-abc0-472a-8e7f-64f459fce5bb,neighboring.tickets,available,399.99,,low,low,11,name.com,,,
-8ca80ea0-7024-42a1-af75-2289f9f2589a,cold.tickets,available,359.99,389.99,high,low,4,namesilo,,,
+8ca80ea0-7024-42a1-af75-2289f9f2589a,cold.tickets,available,359.99,488.88,medium,low,4,namesilo,,,23/09/2026 15:03
 fd9521cf-e800-41de-8676-74b439b5d27e,overagain.tickets,available,393.98,608.98,low,low,10,namecheap,,,13/09/2026 18:13
 a15c462a-3f86-44ef-84e2-5b7a373203a7,acid.tickets,available,359.99,389.99,medium,low,4,namesilo,,,
 05db885a-0cf5-4f34-be9d-0768c5ae4772,informal.tickets,available,359.99,389.99,high,low,8,namesilo,,,
@@ -388,7 +388,7 @@ e6a80981-9338-42a2-a505-95523e1e1a12,unexpected.tickets,available,359.99,389.99,
 97fc166e-4e72-4dde-8e3f-5767c481e7c6,amoeban.tickets,available,359.99,389.99,low,low,7,namesilo,,,
 451c6598-ce2c-4aa6-93f9-1e4af0b95804,dave.tickets,available,359.99,389.99,high,low,4,namesilo,,,
 791d5972-5956-4baf-b3c0-a60d0263d3c9,worth.tickets,available,359.99,389.99,high,low,5,namesilo,,,
-20916c30-3240-4705-8bed-f57aec1c601a,effort.tickets,available,359.99,488.88,medium,low,6,namesilo,,,19/09/2026 09:55
+20916c30-3240-4705-8bed-f57aec1c601a,effort.tickets,available,359.99,488.88,medium,low,6,namesilo,,,23/09/2026 07:47
 1849a76c-e22e-4c86-844a-cb13e8e3d627,them.tickets,available,359.99,389.99,medium,low,4,namesilo,,,
 0c8baaf3-473a-4839-a920-d9896e1ebd2e,ihopeimaybeshot.tickets,available,399.99,,medium,low,20,name.com,,,
 e7d78f25-d7d7-4bc0-89e1-882f66b81e9f,nitid.tickets,available,359.99,389.99,low,low,5,namesilo,,,
@@ -402,7 +402,7 @@ c8b5aeee-9c01-4339-80aa-eb28093937c7,savingsaccount.tickets,available,359.99,389
 654490c1-b551-4a11-9699-8d2677224936,rectangle.tickets,available,359.99,389.99,high,low,9,namesilo,,,
 e09e70f8-9b21-40fc-8ee2-556993b1ffb9,pussy.tickets,premium,1875,,medium,low,5,name.com,,,
 fa4efa12-17ac-4654-aa06-9375cb35449d,ameboid.tickets,available,359.99,389.99,low,low,7,namesilo,,,
-0392d6c9-bb9d-4a8a-bd33-4d2d782e6fb0,naming.tickets,available,393.98,608.98,medium,low,6,namecheap,,,19/09/2026 13:00
+0392d6c9-bb9d-4a8a-bd33-4d2d782e6fb0,naming.tickets,available,359.99,488.88,medium,low,6,namesilo,,,23/09/2026 15:51
 b983b2b4-2ce3-4f87-a405-07fc114899a1,artful.tickets,available,359.99,389.99,low,low,6,namesilo,,,06/08/2026 22:44
 a3a6a84a-3188-4a41-b6e8-128f51ed5f0b,adamant.tickets,available,359.99,389.99,low,low,7,namesilo,,,
 56fef73d-9160-487a-9b6c-837208bc63e7,leather.tickets,premium,1875,,medium,low,7,name.com,,,
@@ -435,7 +435,7 @@ dd71bf34-6791-426a-b52c-ab7ffa5fa80c,germanrepublic.tickets,available,359.99,389
 e3f34159-1e7b-4321-8ce8-5d1274164707,ammonitic.tickets,available,359.99,389.99,low,low,9,namesilo,,,
 11c076fb-0364-4ff9-b88c-4c6f7d4769f0,audio.tickets,available,359.99,389.99,high,low,5,namesilo,,,
 1265e596-fa14-4eec-bae3-8acc0a59a7f5,retired.tickets,available,399.99,,high,low,7,name.com,,,
-36595dbc-f15c-45db-b3b0-de67bc8625eb,organise.tickets,available,399.99,664.99,high,low,8,name.com,,,
+36595dbc-f15c-45db-b3b0-de67bc8625eb,organise.tickets,available,359.99,488.88,medium,low,8,namesilo,,,23/09/2026 23:21
 acb83f1f-88d4-4ea8-aba0-5037c65818f0,ballpointpen.tickets,available,359.99,389.99,high,low,14,namesilo,,,
 96145f5b-d2a8-4e60-8060-5c9ea55dd4de,sail.tickets,available,399.99,,high,low,4,name.com,,,
 6a583cf8-d9b1-4ea7-8b2d-ced2a8fb4197,adiabatic.tickets,available,359.99,389.99,low,low,9,namesilo,,,
@@ -490,7 +490,7 @@ c5c6e099-8c4e-4a0f-93f6-5bc9dbf007a1,ashblonde.tickets,available,359.99,389.99,l
 7ac56f05-51fb-4242-a555-4933ecd946d4,waiting.tickets,available,359.99,389.99,high,low,7,namesilo,,,
 3361e1bc-b7bd-4f9b-85c1-706e67500e09,giveitarest.tickets,available,359.99,389.99,medium,low,14,namesilo,,,
 2dad1815-7b4a-4125-af73-c158d718942f,shh.tickets,available,359.99,389.99,medium,low,3,namesilo,,,
-71a12212-cee4-4dbd-935d-5c750e77c4ae,code.tickets,available,359.99,389.99,high,medium,4,namesilo,,,
+71a12212-cee4-4dbd-935d-5c750e77c4ae,code.tickets,available,359.99,488.88,low,low,4,namesilo,,,24/09/2026 02:48
 21bad0a4-1d1b-490b-8354-37c78e8dd751,asyouknow.tickets,available,359.99,389.99,medium,low,11,namesilo,,,
 c804517e-c2e5-4dd4-8f1c-91f524c1a465,plaguy.tickets,available,359.99,389.99,low,low,6,namesilo,,,
 e9eb0577-044f-4d2d-99d8-307516a77912,commoncold.tickets,available,359.99,389.99,medium,low,11,namesilo,,,
@@ -501,7 +501,7 @@ c9a3814c-210c-4822-a46f-7da78bc9cc1a,comeupwith.tickets,available,359.99,389.99,
 09424314-3d7e-4ecb-8c9c-d0c1eea3cbb8,charactertrait.tickets,available,359.99,389.99,high,low,15,namesilo,,,
 ac4e15fd-09ab-4abc-9177-626e80874efb,anterior.tickets,available,359.99,389.99,low,low,8,namesilo,,,
 b55d7eb8-10c1-45d7-8572-418ef5cc53f3,antitumor.tickets,available,359.99,488.88,medium,low,9,namesilo,,,22/09/2026 06:40
-b6c35747-d32a-4ed5-985b-23daf6b56132,controlled.tickets,available,399.99,664.99,medium,low,10,name.com,,,
+b6c35747-d32a-4ed5-985b-23daf6b56132,controlled.tickets,available,359.99,488.88,low,low,10,namesilo,,,23/09/2026 22:39
 fc940300-1559-4abf-a007-d14d57fd2dc7,frenchvanilla.tickets,available,399.99,,medium,low,14,name.com,,,
 f8c1d060-dac3-418f-bed6-c6129977add7,simplify.tickets,available,359.99,389.99,high,low,8,namesilo,,,
 f4230d2d-ba25-4340-81ea-51c89fc661f9,log.tickets,available,359.99,389.99,high,low,3,namesilo,,,
@@ -531,7 +531,7 @@ a173d60c-5967-4a53-b591-9b72284413a1,lonely.tickets,available,359.99,389.99,medi
 13d18ca9-c883-4d2c-884f-fa6869e0e402,spirited.tickets,available,359.99,389.99,high,low,8,namesilo,,,
 8b36a85f-7c93-4732-ad78-d11f81fb5455,tush.tickets,available,359.99,389.99,low,low,4,namesilo,,,09/08/2026 11:45
 171bedd0-27db-4d59-ab8f-69452a85aeb8,proficiency.tickets,available,359.99,389.99,medium,low,11,namesilo,,,
-61dfc02a-aef6-4ada-800e-0957915c201e,colour.tickets,available,359.99,389.99,high,low,6,namesilo,,,
+61dfc02a-aef6-4ada-800e-0957915c201e,colour.tickets,available,359.99,488.88,medium,low,6,namesilo,,,23/09/2026 15:08
 c252229a-12b5-4ab9-8f05-d61a55ac4292,philistine.tickets,available,359.99,389.99,low,low,10,namesilo,,,
 0c31296d-a1a1-489d-83a6-efd2a3e49339,rightandleft.tickets,available,359.99,389.99,low,low,14,namesilo,,,
 72b3acc4-3317-4a14-a79e-b11aa30850f4,sincerely.tickets,available,359.99,389.99,medium,low,9,namesilo,,,
@@ -551,7 +551,7 @@ d78a22d5-4e1b-4cc4-98bc-6bd0c1472d51,utter.tickets,available,359.99,389.99,mediu
 d0e0017f-9e0c-4dd3-bbef-486140f9db0b,date.tickets,available,399.99,,high,low,4,name.com,,,
 0135d0fd-40bc-4181-8e35-0ddf5899329c,put.tickets,available,359.99,389.99,high,low,3,namesilo,,,
 7ac915b0-b17f-412f-9f7c-a793e38e827e,englishmedium.tickets,available,359.99,389.99,medium,low,14,namesilo,,,
-9c5f17ae-3a6d-4cc2-a862-942e3cc62270,individual.tickets,available,359.99,389.99,high,low,10,namesilo,,,
+9c5f17ae-3a6d-4cc2-a862-942e3cc62270,individual.tickets,available,359.99,488.88,medium,low,10,namesilo,,,23/09/2026 13:06
 e9a65b32-751d-47ce-b06e-f9500b98113d,immense.tickets,available,359.99,389.99,high,low,7,namesilo,,,
 4a3846f5-025a-49d5-841c-e8e6f6c34cbb,conducting.tickets,available,359.99,389.99,medium,low,10,namesilo,,,
 7310ae2a-1b0b-4e63-961d-2eab2b368b3d,taketowife.tickets,available,359.99,389.99,low,low,12,namesilo,,,
@@ -601,7 +601,7 @@ f9e605fc-9983-4dba-9471-c9db25cc5a57,parkingticket.tickets,available,359.99,389.
 2d8bd73b-65d4-4146-abcf-e66749b18919,autologous.tickets,available,359.99,389.99,low,low,10,namesilo,,,07/08/2026 20:37
 947cc68a-c59a-4184-acbc-803467442558,newsgroup.tickets,available,399.99,,medium,low,9,name.com,,,
 14624009-2544-4622-972f-4c27b536fd4a,incompanywith.tickets,available,359.99,389.99,medium,low,15,namesilo,,,
-ebecf4bb-62ab-4c61-b448-cc95bc37ba36,spread.tickets,available,359.99,488.88,medium,low,6,namesilo,,,19/09/2026 12:51
+ebecf4bb-62ab-4c61-b448-cc95bc37ba36,spread.tickets,available,393.98,608.98,medium,low,6,namecheap,,,23/09/2026 15:42
 06d8c0ee-aa6e-456d-b466-9c324bc72b8c,ambivalent.tickets,available,359.99,389.99,low,low,10,namesilo,,,
 22ff0077-935a-4fac-bb86-1f2344a79707,nest.tickets,premium,1875,,high,medium,4,name.com,,,
 e17f856b-c974-4891-9930-92c1f1749e39,grandnephew.tickets,available,359.99,389.99,high,low,11,namesilo,,,
@@ -643,10 +643,10 @@ e42878fa-511e-4b5e-8d21-2b53be719c8f,dissent.tickets,available,359.99,389.99,hig
 84f35731-5120-40ca-aaad-307eac6b5afc,agreeable.tickets,available,359.99,488.88,medium,low,9,namesilo,,,21/09/2026 23:17
 39af3502-617e-485d-ba97-a824d11e164e,howareyougoing.tickets,available,359.99,389.99,medium,low,17,namesilo,,,
 a4656f90-cdcf-45a8-9f1e-d30c5f594ef8,truth.tickets,available,359.99,389.99,high,medium,5,namesilo,,,
-84575604-06bc-4b96-abd0-5f5bb72f9148,pack.tickets,available,399.99,664.99,high,low,4,name.com,,,
+84575604-06bc-4b96-abd0-5f5bb72f9148,pack.tickets,available,359.99,488.88,medium,low,4,namesilo,,,23/09/2026 16:28
 dcad94f4-2944-498d-87b7-12b8d5538f2c,luckout.tickets,available,359.99,389.99,high,low,8,namesilo,,,
 6bea6623-a10e-4ed9-bd4c-4685f23fa3ce,push.tickets,premium,1875,,high,low,4,name.com,,,
-190bc6b3-ae33-4044-a854-4187179c50fe,comic.tickets,available,359.99,389.99,high,low,5,namesilo,,,
+190bc6b3-ae33-4044-a854-4187179c50fe,comic.tickets,available,359.99,488.88,medium,low,5,namesilo,,,23/09/2026 15:15
 4d118f48-6c7b-4c50-8303-a64922c974d7,xmas.tickets,available,359.99,389.99,high,low,4,namesilo,,,
 f47edfc5-4a42-4987-a548-30be54d75315,totime.tickets,available,399.99,,low,low,7,name.com,,,
 a1bc1582-5cfe-4ff9-90fb-83331000e7fd,guess.tickets,premium,1995,1995,medium,low,5,namesilo,,,23/09/2026 04:46
@@ -659,10 +659,10 @@ a1bc1582-5cfe-4ff9-90fb-83331000e7fd,guess.tickets,premium,1995,1995,medium,low,
 9f674eba-8c06-4f56-a58c-57253714fc75,anticlinal.tickets,available,359.99,389.99,low,low,10,namesilo,,,
 43f42b9c-9c04-4a35-aceb-4754b25e8241,aerated.tickets,available,359.99,389.99,low,low,7,namesilo,,,
 7a56a06f-6ca1-4c69-ab99-892075493d9f,sixtysix.tickets,available,359.99,389.99,low,low,9,namesilo,,,
-dd9a08d1-9a9c-4f1b-9ddb-f11aec9b7efe,compact.tickets,available,399.99,664.99,high,low,7,name.com,,,
+dd9a08d1-9a9c-4f1b-9ddb-f11aec9b7efe,compact.tickets,available,359.99,488.88,medium,low,7,namesilo,,,23/09/2026 16:18
 5102b5dc-0c4d-4ffc-b673-152b70ca7422,beefedup.tickets,available,359.99,389.99,low,low,9,namesilo,,,09/08/2026 07:44
 f0a7d32c-33c6-4247-964d-8a8754c980ce,rigid.tickets,available,399.99,,high,low,5,name.com,,,
-b562c0c9-bd59-404a-8b41-4d31bb7520dd,crude.tickets,available,399.99,664.99,high,low,5,name.com,,,
+b562c0c9-bd59-404a-8b41-4d31bb7520dd,crude.tickets,available,359.99,488.88,medium,low,5,namesilo,,,24/09/2026 02:12
 45695c47-f8ab-450e-8e50-74ebc52fefba,how.tickets,available,359.99,389.99,high,low,3,namesilo,,,
 f808ca62-aec1-48ba-bc96-9f9022c515d9,bloody.tickets,available,359.99,488.88,low,low,6,namesilo,,,22/09/2026 00:33
 95ead05a-e281-4f29-8aa9-8f123acc670a,teenage.tickets,available,359.99,488.88,low,low,8,namesilo,,,11/09/2026 10:07
@@ -683,13 +683,13 @@ e6a376dc-139f-4d2e-97b6-59c6fedc267d,adios.tickets,available,359.99,389.99,high,
 31634c7c-1965-4a14-8ca0-11e069024e1f,anodyne.tickets,available,359.99,389.99,low,low,7,namesilo,,,
 ebd854de-e87a-406a-8a0b-499f5bb89394,limit.tickets,available,359.99,389.99,high,low,5,namesilo,,,
 ee8daa50-89ed-4600-a952-0726f4884427,fanclub.tickets,available,359.99,389.99,high,low,8,namesilo,,,
-e6967167-af73-4331-acd9-3da12ecf9fd7,desired.tickets,available,399.99,664.99,high,low,7,name.com,,,
+e6967167-af73-4331-acd9-3da12ecf9fd7,desired.tickets,available,359.99,488.88,medium,low,7,namesilo,,,24/09/2026 00:57
 320cf229-9651-41f1-8ba7-927e36d7aabd,youknow.tickets,available,359.99,389.99,high,low,8,namesilo,,,
 537dac13-b74a-42a2-87d2-2aa479c1825a,thirdclass.tickets,available,359.99,389.99,low,low,11,namesilo,,,
 e8960d5c-6bf6-44ff-aa17-bfe57ce2af9f,onschedule.tickets,available,359.99,389.99,high,low,11,namesilo,,,
 66f0ed13-5e67-454d-895e-238fbc12d1b5,findout.tickets,available,359.99,389.99,high,low,8,namesilo,,,
 365fe616-2cec-4717-b2f3-1345656e6e7f,noncitizen.tickets,available,359.99,389.99,low,low,10,namesilo,,,
-5e1f19e6-8497-4339-812d-357b9efe1dcb,intelligence.tickets,available,399.99,,high,low,12,name.com,,,
+5e1f19e6-8497-4339-812d-357b9efe1dcb,intelligence.tickets,available,393.98,608.98,medium,low,12,namecheap,,,24/09/2026 02:54
 32461637-7186-4335-bdb5-8fd69dc2a432,abovetheline.tickets,available,359.99,389.99,low,low,14,namesilo,,,
 e09b85dc-5add-4814-9118-0cd0d0221401,represent.tickets,available,359.99,389.99,high,low,9,namesilo,,,
 5f8e89ab-c230-4fb7-9989-25a296b0cc0d,ankylotic.tickets,available,359.99,389.99,low,low,9,namesilo,,,
@@ -702,12 +702,12 @@ b5d9ffd8-1a52-46e4-b6a7-fd5acf8e9858,blackfriday.tickets,available,359.99,389.99
 111b1698-5566-4292-9a5d-aece269cf26d,wrong.tickets,available,359.99,389.99,high,low,5,namesilo,,,
 2d893a4e-d16d-4ea0-83b3-5d0e730e6f52,primarytooth.tickets,available,359.99,389.99,low,low,13,namesilo,,,
 53e90bde-c0de-453a-bd8b-ca87f5fee857,bean.tickets,available,359.99,389.99,medium,low,4,namesilo,,,
-32a6d8f8-9515-4425-b2fe-a5d7b87b6ee5,wanted.tickets,available,359.99,389.99,high,low,6,namesilo,,,
+32a6d8f8-9515-4425-b2fe-a5d7b87b6ee5,wanted.tickets,available,393.98,608.98,low,low,6,namecheap,,,23/09/2026 14:03
 a99f4254-2d71-43c2-a872-26f768cec8c0,pure.tickets,available,359.99,389.99,high,medium,4,namesilo,,,
 9c69e50c-48c0-40e6-a368-1486682e892b,slowness.tickets,available,359.99,389.99,medium,low,8,namesilo,,,
 83d44d70-7940-4a49-9046-637a2fe785f6,nyse.tickets,available,359.99,389.99,medium,low,4,namesilo,,,
 c61517b8-7742-4615-bf8d-0b1f40aba7f7,trap.tickets,available,359.99,389.99,medium,low,4,namesilo,,,
-60c9d112-0921-49df-adee-ae6299982d50,confirming.tickets,available,399.99,664.99,high,low,10,name.com,,,
+60c9d112-0921-49df-adee-ae6299982d50,confirming.tickets,available,359.99,488.88,medium,low,10,namesilo,,,23/09/2026 19:45
 d5d3081e-d222-4ce5-a5aa-7d55bae59d82,arguement.tickets,available,359.99,389.99,medium,low,9,namesilo,,,
 395db012-27b2-4a8d-8527-6a6cdf7822a3,takingaway.tickets,available,399.99,,low,low,11,name.com,,,
 12ae68ae-7e4f-4274-a538-802c8c9e989e,jupiter.tickets,available,359.99,389.99,high,low,7,namesilo,,,
@@ -745,9 +745,9 @@ d82b088b-4e97-4219-9b50-c4d5b2c0272d,lgbtq.tickets,available,359.99,389.99,high,
 1f2ef507-39f7-45bf-a05a-df1d6232b3ab,hair.tickets,available,359.99,389.99,high,low,4,namesilo,,,
 076271ce-058e-4ad7-9740-8bb325f6be7f,alive.tickets,available,359.99,488.88,medium,low,5,namesilo,,,22/09/2026 05:04
 fc6d27e9-12e0-49de-b73e-945fb48b3963,bacchant.tickets,available,359.99,389.99,low,low,8,namesilo,,,08/08/2026 04:35
-6cd0e368-639d-4a68-b3b0-a288bbb4b161,givebirth.tickets,available,359.99,389.99,high,low,10,namesilo,,,
+6cd0e368-639d-4a68-b3b0-a288bbb4b161,givebirth.tickets,available,393.98,608.98,low,low,10,namecheap,,,23/09/2026 20:56
 fe1571b3-68b3-4740-b591-5fb1c90fac66,lag.tickets,available,359.99,389.99,medium,low,3,namesilo,,,
-f93f54ad-c91b-44bd-b0c9-e5ca54a4435c,secret.tickets,available,359.99,389.99,high,medium,6,namesilo,,,
+f93f54ad-c91b-44bd-b0c9-e5ca54a4435c,secret.tickets,available,669.99,669.99,medium,low,6,name.com,,,23/09/2026 14:41
 7e9f97f9-9b4e-4b42-9062-e6716155455f,accepting.tickets,available,393.98,608.98,medium,low,9,namecheap,,,21/09/2026 15:33
 5c07f554-b8f3-4a0a-b032-18683c3e78d9,barred.tickets,available,359.99,389.99,low,low,6,namesilo,,,08/08/2026 20:37
 b820312f-8cb5-4f23-bae0-2250aaa82879,approved.tickets,available,359.99,389.99,low,low,8,namesilo,,,06/08/2026 09:20
@@ -790,7 +790,7 @@ d580138d-4ce6-4ac4-919f-d4265e9b2b47,moment.tickets,available,359.99,389.99,high
 508d2edd-5fad-4db7-8cc0-0a80a2090d7e,court.tickets,available,399.99,,medium,low,5,name.com,,,
 523cf305-b362-495c-9eb5-aa0eaa6de5a1,aflare.tickets,available,359.99,389.99,low,low,6,namesilo,,,
 96557344-3026-4f14-a83c-9739515f35ea,unveil.tickets,available,359.99,389.99,high,low,6,namesilo,,,
-f23ed5c4-9499-48fd-bdf2-714c147da970,flop.tickets,available,359.99,389.99,medium,low,4,namesilo,,,
+f23ed5c4-9499-48fd-bdf2-714c147da970,flop.tickets,available,359.99,488.88,low,low,4,namesilo,,,23/09/2026 12:03
 1a05c2fe-2675-4089-bfae-97ab73ac1b23,alleviated.tickets,available,359.99,389.99,low,low,10,namesilo,,,
 e2ca3eb3-ae12-42f7-96b5-17c74573585b,alcoholic.tickets,available,359.99,389.99,low,low,9,namesilo,,,
 b4714788-4f6a-4579-a712-b59d74789efd,miracle.tickets,available,399.99,,high,low,7,name.com,,,
@@ -849,10 +849,10 @@ a0884c57-eefd-45e3-9162-8972173e49bb,silverpolish.tickets,available,359.99,389.9
 5197e5d5-f216-472c-a91e-921ec065af21,thirteenth.tickets,available,359.99,389.99,low,low,10,namesilo,,,
 2b652bb1-2620-4bf6-be0b-c00fddcf36c8,harddrive.tickets,available,359.99,389.99,high,low,10,namesilo,,,
 719088f7-c012-49ca-b991-afdc7782bacf,aligning.tickets,available,359.99,389.99,low,low,8,namesilo,,,
-7ed40d18-6b1f-4083-bbca-ed966114e87f,required.tickets,available,399.99,664.99,medium,low,8,name.com,,,
-cf7ab09a-a3ce-4c61-814c-cabd2ce00c14,bullying.tickets,available,359.99,389.99,medium,low,8,namesilo,,,
+7ed40d18-6b1f-4083-bbca-ed966114e87f,required.tickets,available,393.98,608.98,medium,low,8,namecheap,,,23/09/2026 18:27
+cf7ab09a-a3ce-4c61-814c-cabd2ce00c14,bullying.tickets,available,359.99,488.88,low,low,8,namesilo,,,23/09/2026 10:48
 08357017-878f-488d-b4e5-db75bba32603,shared.tickets,available,399.99,664.99,high,low,6,name.com,,,
-cc015010-939c-4770-a51d-c69ece4ee2ad,busted.tickets,available,359.99,389.99,medium,low,6,namesilo,,,
+cc015010-939c-4770-a51d-c69ece4ee2ad,busted.tickets,available,359.99,488.88,low,low,6,namesilo,,,23/09/2026 12:06
 003fa579-3c05-4f8a-99c6-8fae341ad48e,nonplussed.tickets,available,359.99,389.99,low,low,10,namesilo,,,07/08/2026 10:48
 ff22f18b-6971-4184-82a3-da1785a0abe1,rapidantigentest.tickets,available,359.99,389.99,high,low,18,namesilo,,,
 84f41915-141a-4f61-b745-07f8371f99b7,metric.tickets,available,359.99,389.99,high,low,6,namesilo,,,
@@ -888,7 +888,7 @@ eca40315-eb32-4107-8106-fd2468f5b0c6,childhood.tickets,available,359.99,389.99,h
 b047a572-3cbd-43c9-be3c-b9d711e41b81,far.tickets,available,359.99,389.99,high,low,3,namesilo,,,
 44dd9101-39b7-4c05-918f-4b42f6ffe0ae,actor.tickets,available,359.99,389.99,high,low,5,namesilo,,,
 cee9dfaf-fe52-46b1-ad15-cf2424dd7581,theboys.tickets,available,399.99,,medium,low,8,name.com,,,
-01ff8ed7-a34b-4665-a792-e75c3ef86c52,comp.tickets,available,399.99,664.99,medium,low,4,name.com,,,
+01ff8ed7-a34b-4665-a792-e75c3ef86c52,comp.tickets,available,393.98,608.98,low,low,4,namecheap,,,23/09/2026 17:59
 ccfdd64c-a87d-4911-805d-ad5ee0cc347b,warfare.tickets,available,359.99,389.99,high,low,7,namesilo,,,
 5d054ba4-a9b0-4612-b48b-54a3cacf0f2b,templecity.tickets,available,399.99,,low,low,11,name.com,,,
 83b25920-34c8-4833-9db6-43292075953d,atomic.tickets,available,359.99,488.88,low,low,6,namesilo,,,22/09/2026 11:03
@@ -943,7 +943,7 @@ b0177a73-a43f-4e18-8aea-63d3e03c3a7c,elusive.tickets,available,359.99,389.99,low
 329e06d7-83b1-4bfe-b2d7-0fdf71ae0dc5,amicable.tickets,available,393.98,608.98,medium,low,8,namecheap,,,22/09/2026 04:19
 cc31784d-7755-4cc2-9975-866e03c3ee30,silvery.tickets,available,393.98,568,low,low,7,namecheap,,,06/08/2026 17:56
 73934d64-eb1a-4c53-ab19-3d31b6695643,romanfoot.tickets,available,399.99,,low,low,10,name.com,,,
-987f94b6-2273-4952-8b5c-9a83fa4acc36,culture.tickets,available,393.98,608.98,medium,low,7,namecheap,,,21/09/2026 02:02
+987f94b6-2273-4952-8b5c-9a83fa4acc36,culture.tickets,available,359.99,488.88,medium,low,7,namesilo,,,24/09/2026 00:06
 52d1280d-79b4-4649-a246-de3b7d3218ab,pamela.tickets,available,359.99,389.99,high,low,6,namesilo,,,
 a3330641-06bd-4f88-8496-ea2cf4a48bea,adoptive.tickets,available,359.99,389.99,low,low,8,namesilo,,,
 137f5a5b-0dd9-4d74-8c26-5de28925685f,broccoli.tickets,available,399.99,,medium,low,8,name.com,,,
@@ -989,7 +989,7 @@ d09ec46b-126e-4607-819c-5d175888b178,lasting.tickets,available,399.99,664.99,hig
 3df48e89-03c7-45ff-9109-694510197f1a,entranced.tickets,available,359.99,389.99,low,low,9,namesilo,,,09/08/2026 10:11
 c91f28d2-6f9e-4b4e-b139-8156360bc2e3,lxxxiii.tickets,available,359.99,389.99,low,low,7,namesilo,,,
 2c18e72c-a9b5-494e-8691-f1005dab0e8e,influence.tickets,available,359.99,488.88,medium,low,9,namesilo,,,08/09/2026 08:44
-b4eb8b4a-b97c-429e-9d9f-dff89f7e673b,chicken.tickets,available,359.99,389.99,medium,low,7,namesilo,,,
+b4eb8b4a-b97c-429e-9d9f-dff89f7e673b,chicken.tickets,available,359.99,488.88,low,low,7,namesilo,,,23/09/2026 14:11
 d44eb668-4ae6-41ce-8b8c-f85294a4eff2,autotomic.tickets,available,359.99,389.99,low,low,9,namesilo,,,07/08/2026 21:13
 9911d9bb-1728-4a86-a700-dc80c6173a0f,metal.tickets,premium,1950,1950,high,low,5,namecheap,,,
 bcf99a72-eb2b-456a-a239-5f3e96f8e43d,hum.tickets,available,359.99,389.99,high,low,3,namesilo,,,

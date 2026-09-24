@@ -1,10 +1,10 @@
-# Available .TICKETS One-Word Domains (32,881)
+# Available .TICKETS One-Word Domains (33,785)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C881%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C785%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .tickets one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,881 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,785 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,881 domains · **Median ask:** $396.94 · **High-demand under $2,500:** 75
+**Public extract:** 1,000 rows · **Live catalog:** 33,785 domains · **Median ask:** $397.02 · **High-demand under $2,500:** 73
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/tickets`
@@ -72,18 +72,18 @@ print(df.head())
 | wrong.tickets   | available | $359.99   | $389.99       | high           | low    | 5      | namesilo      |
 | add.tickets     | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
 | season.tickets  | resell    | —         | —             | high           | low    | 6      | Go Daddy, LLC |
+| ask.tickets     | premium   | $1,875    | —             | high           | medium | 3      | name.com      |
+| ale.tickets     | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
 | cat.tickets     | premium   | $1,875    | —             | high           | high   | 3      | name.com      |
-| ale.tickets     | available | $359.99   | $389.99       | medium         | low    | 3      | namesilo      |
-| best.tickets    | premium   | $1,950    | $1,950        | medium         | low    | 4      | namecheap     |
 | and.tickets     | available | $359.99   | $389.99       | high           | medium | 3      | namesilo      |
+| ally.tickets    | premium   | $1,875    | —             | high           | high   | 4      | name.com      |
+| ane.tickets     | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
 | ever.tickets    | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
-| ane.tickets     | available | $359.99   | $389.99       | low            | low    | 3      | namesilo      |
-| gold.tickets    | premium   | $1,995    | $1,995        | low            | low    | 4      | namesilo      |
 | ann.tickets     | available | $359.99   | $389.99       | high           | low    | 3      | namesilo      |
-| grow.tickets    | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
+| feet.tickets    | premium   | $1,875    | —             | high           | low    | 4      | name.com      |
 | aol.tickets     | available | $359.99   | $389.99       | high           | high   | 3      | namesilo      |
-| lush.tickets    | premium   | $1,875    | $1,875        | medium         | medium | 4      | name.com      |
-| ass.tickets     | available | $359.99   | $389.99       | low            | low    | 3      | namesilo      |
+| grow.tickets    | premium   | $1,875    | —             | high           | medium | 4      | name.com      |
+| ass.tickets     | available | $359.99   | $389.99       | medium         | low    | 3      | namesilo      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,881 live domains                        |
+| 1,000-row public sample | 33,785 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 75 high-demand names under $2,500          |
+| Basic exported fields   | 73 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

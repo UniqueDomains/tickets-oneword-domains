@@ -4,6 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7b9a697b-cd97-442b-b3ce-e574089adb06,wool.tickets,available,359.99,389.99,high,low,4,namesilo,,,
 6ad17f60-8cbe-4b4b-97b4-c950a0fa4cef,shrub.tickets,available,359.99,488.88,high,low,5,namesilo,,,23/09/2026 11:56
 712a3730-0d70-4d88-b4ce-db137ed78331,cholera.tickets,available,359.99,488.88,medium,low,7,namesilo,,,20/09/2026 14:08
+def14bdd-9cd4-4ba5-bf65-6a0299f9c036,sticking.tickets,available,359.99,488.88,high,low,8,namesilo,,,27/09/2026 06:41
 8093546c-a0b9-43e8-80f4-95f11a04ad62,accounted.tickets,available,359.99,389.99,medium,low,9,namesilo,,,
 3ff81214-bddb-4b28-9f4b-a7d185525238,equitably.tickets,available,359.99,488.88,medium,low,9,namesilo,,,14/09/2026 15:54
 769e1fc5-8c9b-4b92-abc4-ddf8ce5ba15d,lxxiv.tickets,available,393.98,568,medium,low,5,namecheap,,,
@@ -29,7 +30,7 @@ f1cf07cb-a0e5-4e51-a43c-b7f97d333fa3,toll.tickets,available,399.99,,high,medium,
 f0c5fa35-cecf-4426-80cb-872aeaa9947e,attar.tickets,available,393.98,608.98,medium,low,5,namecheap,,,20/09/2026 19:21
 34a6c73c-259b-4911-ac86-e6124d42a3b3,chris.tickets,available,669.99,669.99,high,medium,5,name.com,,,25/09/2026 17:18
 807d397d-9287-4550-a7a0-7e8d176f7898,biennial.tickets,available,393.98,568,high,low,8,namecheap,,,09/08/2026 19:52
-d31b0635-31d6-4c5c-8962-f2d09dbf3b35,printable.tickets,available,359.99,389.99,high,low,9,namesilo,,,
+d31b0635-31d6-4c5c-8962-f2d09dbf3b35,printable.tickets,available,359.99,488.88,high,low,9,namesilo,,,27/09/2026 05:59
 3cde19c1-d9dd-4b14-9b3c-e93931fd5d1c,taradiddle.tickets,available,359.99,488.88,medium,low,10,namesilo,,,21/09/2026 23:52
 fe1e96ce-87f2-4900-a610-8e6a883f831b,bathymetry.tickets,available,393.98,608.98,medium,low,10,namecheap,,,22/09/2026 13:55
 02d51c48-6b0f-4203-9825-764ce7a681f8,walker.tickets,available,359.99,488.88,high,low,6,namesilo,,,08/09/2026 12:36
@@ -40,6 +41,7 @@ abbb3495-098e-47de-ae90-99329c61e58e,shakespeare.tickets,available,359.99,389.99
 481f793e-8240-43cb-94d3-020cb26870f9,reverent.tickets,available,359.99,389.99,high,low,8,namesilo,,,20/08/2026 16:08
 7cc0f311-04fc-4c1a-ba3b-eec923cb0c5c,berserker.tickets,available,359.99,389.99,medium,low,9,namesilo,,,09/08/2026 15:17
 1dd2b70a-fcae-4a77-87cf-64b7ca4c4427,keenness.tickets,available,359.99,488.88,high,low,8,namesilo,,,21/09/2026 09:30
+b6c272d4-ff75-4b51-a011-9fd8b22304d6,philosophy.tickets,available,393.98,608.98,high,low,10,namecheap,,,27/09/2026 13:03
 3c1d7215-5ce5-4eda-847c-f86515d9f9fb,hone.tickets,available,359.99,488.88,high,low,4,namesilo,,,08/09/2026 16:29
 8cbb65a0-d955-4663-a0c6-7fa13d06a30a,afraid.tickets,available,359.99,488.88,high,low,6,namesilo,,,26/09/2026 00:46
 fe92d1a2-8207-4364-a94d-f468795890a9,vendable.tickets,available,393.98,568,medium,low,8,namecheap,,,24/08/2026 20:30
@@ -316,7 +318,7 @@ d2100b3b-cf8a-4acf-afb4-ede6d5665885,oodles.tickets,available,359.99,488.88,high
 6cecbb4e-78fa-4617-8952-64765ece762f,snakebird.tickets,available,359.99,488.88,medium,low,9,namesilo,,,19/09/2026 08:17
 2a1d8675-724e-4acf-ba96-ffe90f7f342c,callable.tickets,available,359.99,389.99,medium,low,8,namesilo,,,11/08/2026 14:26
 4a91e02a-4aaf-4fb7-9334-8c39914dc9b2,congrats.tickets,available,359.99,389.99,high,low,8,namesilo,,,
-15ef70af-e6c5-4e25-bb94-732ae65b6636,rested.tickets,available,399.99,,high,low,6,name.com,,,
+15ef70af-e6c5-4e25-bb94-732ae65b6636,rested.tickets,available,393.98,608.98,high,low,6,namecheap,,,27/09/2026 12:50
 fa771ec4-d353-490a-8f4c-01a135e3471a,gray.tickets,premium,1995,1995,high,low,4,namesilo,,,24/09/2026 22:57
 3bc5af72-a474-4108-bb64-baad591d0c90,imprisoned.tickets,available,393.98,568,medium,low,10,namecheap,,,11/08/2026 18:22
 1fb9342b-b653-4721-b156-89ea81e9f11c,packed.tickets,available,359.99,488.88,high,low,6,namesilo,,,25/09/2026 11:42
@@ -350,6 +352,7 @@ a469733b-af3f-4b1f-99fb-6328236507ed,gilding.tickets,available,359.99,389.99,hig
 57dbe6d0-c50a-43a4-968d-6386a92a5bf7,chirpy.tickets,available,359.99,389.99,high,low,6,namesilo,,,12/08/2026 06:03
 2117b511-93ee-41ae-800f-3267509b70f4,sober.tickets,available,393.98,568,high,low,5,namecheap,,,20/08/2026 18:42
 aba5a27e-bac6-470b-8789-72fc2a27ba61,sewed.tickets,available,359.99,488.88,medium,low,5,namesilo,,,10/09/2026 05:05
+e2507184-55b5-4aaf-8832-fea1cafea105,vaughn.tickets,available,359.99,488.88,high,low,6,namesilo,,,27/09/2026 11:16
 ad43c393-ea9e-4be2-afbe-6db5bac50af9,desires.tickets,available,359.99,488.88,high,low,7,namesilo,,,17/09/2026 08:40
 69a82179-2f03-4a88-99e3-1f8d4a68b617,business.tickets,available,393.98,608.98,high,medium,8,namecheap,,,27/09/2026 01:37
 6bdd3ac8-5c31-4797-ac99-d552ceca97cb,picaresque.tickets,available,393.98,608.98,high,medium,10,namecheap,,,08/09/2026 19:30
@@ -369,6 +372,7 @@ e0e4c9d2-83a3-4bbc-90c8-1c9ee8dfd36a,happily.tickets,available,359.99,389.99,hig
 99305799-69e1-4e90-9a26-6e8d7e50b190,banked.tickets,available,359.99,389.99,medium,low,6,namesilo,,,
 993ce703-89a4-452d-91e3-6c50911eef38,artificial.tickets,available,669.99,669.99,high,low,10,name.com,,,22/09/2026 08:57
 d9bd427f-5ec5-4d64-98f3-760ee4a25fcc,barometer.tickets,available,359.99,488.88,high,low,9,namesilo,,,22/09/2026 07:00
+dcd911de-26ab-4abb-9f01-4a6e56d9a06d,ernie.tickets,available,393.98,608.98,high,low,5,namecheap,,,27/09/2026 07:15
 4444b71f-1892-4cc3-973a-72fc5073fbe7,bitters.tickets,available,359.99,488.88,high,low,7,namesilo,,,23/09/2026 23:09
 785ccd50-8c80-4723-801c-2ad90b8ace88,hydrogen.tickets,available,359.99,488.88,high,low,8,namesilo,,,20/09/2026 21:53
 75162dff-f0d7-4f4e-a01c-b35a25ab3896,women.tickets,available,359.99,389.99,high,low,5,namesilo,,,
@@ -389,7 +393,7 @@ d50b84c6-83cc-4943-abcd-2a011572d9e9,anyone.tickets,available,399.99,,medium,low
 0da940eb-6144-48be-83fb-6055840b159a,pneumatic.tickets,available,359.99,488.88,high,low,9,namesilo,,,08/09/2026 22:06
 df5eed2e-1922-41fb-8b36-edafc6548e6b,sweetener.tickets,available,359.99,488.88,high,low,9,namesilo,,,21/09/2026 19:45
 813aa55b-f792-4845-b3d2-918e9a7bea6a,splattered.tickets,available,399.99,664.99,medium,low,10,name.com,,,13/08/2026 15:21
-2a1a9c5c-c199-4e50-93c7-07949b954144,preserved.tickets,available,359.99,389.99,high,low,9,namesilo,,,
+2a1a9c5c-c199-4e50-93c7-07949b954144,preserved.tickets,available,359.99,488.88,high,low,9,namesilo,,,27/09/2026 05:50
 1bff2425-f526-4a98-a061-cffacba46795,sunrise.tickets,available,359.99,389.99,high,low,7,namesilo,,,
 4926c361-d526-49c1-88a0-a91e6b7dc323,biddy.tickets,available,393.98,608.98,medium,low,5,namecheap,,,23/09/2026 13:45
 600c9e6b-dd28-4bf0-96d4-8e0bfc7be1ad,imitative.tickets,available,359.99,389.99,medium,low,9,namesilo,,,13/08/2026 03:34
@@ -562,6 +566,7 @@ ac11ce34-58b3-492d-b048-47e32d4df4ff,drizzly.tickets,available,393.98,568,medium
 eacb0b2b-c0ed-4558-ad93-23b0af48aab3,naseby.tickets,available,359.99,488.88,medium,low,6,namesilo,,,22/09/2026 15:31
 1546c44a-091b-439f-94f0-1a832406ee40,cattleman.tickets,available,359.99,488.88,high,low,9,namesilo,,,23/09/2026 00:40
 86f28d33-adc8-42db-bfcd-6607bd8c90c5,ingenuity.tickets,available,393.98,608.98,high,low,9,namecheap,,,24/09/2026 15:35
+da00067d-edaa-445b-ba7b-84f92f01a157,dorchester.tickets,available,393.98,608.98,medium,low,10,namecheap,,,27/09/2026 07:30
 d9ff6989-166c-4ef9-bad4-e7a67e512469,unsaid.tickets,available,359.99,488.88,medium,low,6,namesilo,,,12/09/2026 09:43
 310f20d3-a203-4945-b54a-0b64ebf5477a,truncate.tickets,available,359.99,488.88,high,low,8,namesilo,,,11/09/2026 20:40
 da833ab4-fe0b-4c89-9b5f-5eddc00af32d,indian.tickets,available,359.99,488.88,high,low,6,namesilo,,,22/09/2026 04:13
@@ -688,6 +693,7 @@ d54f1a69-c619-498e-9f8e-b026b46943b7,alcidae.tickets,available,359.99,488.88,med
 899e6877-a172-49d9-9592-c558c4d27247,traders.tickets,available,399.99,,high,low,7,name.com,,,
 3e74ac49-388d-4932-8125-f07bcd829c3f,alkaloid.tickets,available,393.98,608.98,high,low,8,namecheap,,,18/09/2026 08:21
 22f2b647-c347-40d4-b348-4967a15ddc78,static.tickets,available,359.99,389.99,high,low,6,namesilo,,,16/08/2026 02:42
+f232a8ab-c3b7-4505-b9a7-84abb1a05d2b,abdul.tickets,available,359.99,488.88,high,low,5,namesilo,,,27/09/2026 07:21
 da2244dd-3596-4233-b0ef-5a0e82890cb5,insurance.tickets,available,359.99,389.99,high,medium,9,namesilo,,,
 6ddbd7e2-43f6-4f47-bdaa-3a0cec88094d,nosocomial.tickets,available,359.99,488.88,low,low,10,namesilo,,,03/09/2026 21:56
 fb419b55-21df-4877-9f25-3dc62b310a45,pay.tickets,premium,1875,,high,medium,3,name.com,,,
@@ -761,10 +767,11 @@ bfc37c59-df18-4693-98e4-a0b97930e6f2,flashy.tickets,available,359.99,389.99,high
 1ff9f59a-c4ef-4dec-af47-2483bdb07445,brochure.tickets,available,359.99,488.88,high,low,8,namesilo,,,24/09/2026 07:07
 dc1c1ef4-b23c-4c90-b2ec-5552cd95f31e,ionian.tickets,available,359.99,389.99,high,low,6,namesilo,,,22/08/2026 09:28
 19a0e030-d52c-4de0-be97-3d486f3017c5,bollock.tickets,available,359.99,488.88,medium,low,7,namesilo,,,21/09/2026 23:08
-bb738c6e-d16d-4b86-902b-f85dbd1dd42a,very.tickets,premium,1875,,high,low,4,name.com,,,
+bb738c6e-d16d-4b86-902b-f85dbd1dd42a,very.tickets,premium,1995,1995,high,low,4,namesilo,,,27/09/2026 09:52
 3535861f-8706-486c-975f-105d336a9ad9,skeletal.tickets,available,393.98,568,high,low,8,namecheap,,,10/08/2026 19:00
 d72008de-2fea-4b0a-8342-e0e846c0ce6a,maxilla.tickets,available,393.98,568,medium,low,7,namecheap,,,24/08/2026 17:52
 9c488b2f-9923-4fa7-84a8-fa5373f37442,sanctum.tickets,available,359.99,389.99,high,low,7,namesilo,,,21/08/2026 10:47
+79c483e8-1abb-4133-a4eb-414a777a99d6,arrangements.tickets,available,359.99,488.88,medium,low,12,namesilo,,,27/09/2026 10:40
 0d843101-4da2-4554-b4c2-9aa564ec210c,itinerant.tickets,available,359.99,389.99,high,low,9,namesilo,,,22/08/2026 11:41
 2a52e297-368e-4a57-a6e3-1b44f784bc0e,gramme.tickets,available,359.99,389.99,high,low,6,namesilo,,,
 a8114fc9-9e19-4995-80ac-2cb03286ffd6,allocator.tickets,available,359.99,488.88,high,low,9,namesilo,,,18/09/2026 11:47
@@ -788,6 +795,7 @@ d9ad2148-5e6e-457d-801b-70099c24fdd1,podlike.tickets,available,359.99,488.88,med
 2e892cc6-30c8-429b-9dd6-38f818eec970,librarian.tickets,available,359.99,488.88,high,low,9,namesilo,,,23/09/2026 12:54
 e74ea156-071a-4b2c-aeb8-8ec504ee4d97,bbc.tickets,available,393.98,608.98,high,medium,3,namecheap,,,19/09/2026 05:43
 d38c36e0-50da-462b-996c-2cd4399ab4fe,succulent.tickets,available,359.99,488.88,high,low,9,namesilo,,,11/09/2026 00:58
+c2c47a69-c7a0-4639-ab5a-cec22c06660f,kane.tickets,available,359.99,488.88,high,low,4,namesilo,,,27/09/2026 07:59
 dc415858-1c39-4bac-b12a-7db47e01ebc9,recherche.tickets,available,359.99,488.88,high,low,9,namesilo,,,09/09/2026 11:27
 8130d5db-71bb-41f9-a3fd-8f8a63ed207f,announced.tickets,available,359.99,488.88,high,low,9,namesilo,,,22/09/2026 05:10
 f44ba4fb-ded4-4067-9a61-a8af94e2c75b,imposing.tickets,available,393.98,568,high,low,8,namecheap,,,08/08/2026 20:16
@@ -879,7 +887,7 @@ b29cbfee-6c1b-4b4f-ad9c-fd7f95e7a508,artist.tickets,available,393.98,608.98,high
 427a05dc-d37e-438b-8f42-12144f48e292,pacemaker.tickets,available,359.99,488.88,high,low,9,namesilo,,,20/09/2026 11:42
 1d6e49ea-ac66-4b3d-aa99-05c4b2d39957,candlenut.tickets,available,359.99,488.88,medium,low,9,namesilo,,,18/09/2026 05:37
 00eece86-5970-4454-a7c9-70b9bc476d6d,prescribed.tickets,available,359.99,389.99,medium,low,10,namesilo,,,13/08/2026 22:17
-a99f4254-2d71-43c2-a872-26f768cec8c0,pure.tickets,available,393.98,608.98,high,medium,4,namecheap,,,27/09/2026 04:20
+a99f4254-2d71-43c2-a872-26f768cec8c0,pure.tickets,available,393.98,608.98,high,medium,4,namecheap,,,27/09/2026 08:17
 a0e54234-24c9-4e27-8c83-a305046d852a,cecilia.tickets,available,359.99,488.88,medium,low,7,namesilo,,,26/09/2026 03:37
 644c0009-6e3c-4381-aad9-1cc49079d833,chances.tickets,available,359.99,488.88,medium,low,7,namesilo,,,25/09/2026 16:56
 d280199a-72b8-4ee6-862e-f98bc3f92860,language.tickets,available,393.98,608.98,high,low,8,namecheap,,,25/09/2026 15:54
@@ -938,7 +946,7 @@ fb446cfe-0827-4913-8d95-188f0ee13918,retral.tickets,available,359.99,488.88,medi
 f4982c8a-7e9a-4d8a-b0cf-6a6747416c50,concentric.tickets,available,393.98,568,high,low,10,namecheap,,,12/08/2026 19:57
 eff6f80a-f655-4cca-b82a-e2b8e7704bda,jesse.tickets,available,393.98,608.98,high,low,5,namecheap,,,25/09/2026 12:07
 6511f5c2-1e71-431c-a1b5-904087456b75,flyaway.tickets,available,359.99,389.99,medium,low,7,namesilo,,,18/08/2026 08:13
-6157486f-1762-4066-a3ee-b862bf044857,proper.tickets,available,359.99,488.88,high,low,6,namesilo,,,25/09/2026 17:25
+6157486f-1762-4066-a3ee-b862bf044857,proper.tickets,available,393.98,608.98,high,low,6,namecheap,,,27/09/2026 07:40
 5b04f4f1-061b-41d1-9706-3e2fa13df45d,lcd.tickets,available,359.99,389.99,high,low,3,namesilo,,,
 975c37d2-ae92-4b96-9cef-b216ea2a13db,deflated.tickets,available,359.99,389.99,medium,low,8,namesilo,,,12/08/2026 02:17
 34f258a2-ce7a-44d0-b594-3c0ebaaffab3,summery.tickets,available,359.99,488.88,high,low,7,namesilo,,,11/09/2026 01:38
@@ -954,6 +962,7 @@ a26da8fd-079b-4ea6-b03b-6f774d23db0f,zeal.tickets,available,359.99,488.88,high,l
 e32d3ee1-ff3d-4cff-82f7-8239cb522ca5,cerise.tickets,available,359.99,389.99,medium,low,6,namesilo,,,10/08/2026 15:04
 e8e7d0a9-d231-4afe-9327-5c32c63bb0ae,punk.tickets,premium,1950,1950,high,low,4,namecheap,,,23/09/2026 11:14
 606d6cbf-a31e-428c-bd67-a8721f801700,payable.tickets,available,359.99,389.99,high,low,7,namesilo,,,12/08/2026 16:58
+e330c22a-2a21-4d6d-9c14-ea4332b58833,clouds.tickets,available,359.99,488.88,high,low,6,namesilo,,,27/09/2026 09:07
 58e3a1c7-717e-4e1f-8c5f-8d704fcb16c6,lucania.tickets,available,393.98,608.98,medium,low,7,namecheap,,,22/09/2026 10:51
 f66c6f87-d117-464b-bd89-e786f3de762f,demonstrated.tickets,available,393.98,608.98,high,low,12,namecheap,,,17/09/2026 21:56
 d436bde3-5ef1-4aec-ae26-804b79117276,hematic.tickets,available,359.99,389.99,medium,low,7,namesilo,,,20/08/2026 21:53
@@ -990,12 +999,3 @@ e588ba01-ef36-4352-923c-0d8073946fae,airworthy.tickets,available,359.99,389.99,m
 ae986b9a-25bb-4cfc-a9ec-2e140734842c,regressive.tickets,available,359.99,488.88,high,medium,10,namesilo,,,09/09/2026 12:59
 5851497a-22a8-4212-a683-2fe558a77bd6,seepage.tickets,available,359.99,488.88,medium,low,7,namesilo,,,04/09/2026 15:38
 259c62de-e2f4-4cd3-8485-2095ddf90cd1,ceramic.tickets,available,359.99,389.99,high,low,7,namesilo,,,12/08/2026 00:23
-871fd3ff-a7ec-448c-97c8-d155f513f930,workfare.tickets,available,359.99,389.99,high,low,8,namesilo,,,
-b77f3080-79bd-4334-8e47-c6a57416069b,propertied.tickets,available,359.99,488.88,medium,low,10,namesilo,,,09/09/2026 03:34
-76531644-2ae8-4c54-9b8b-f5a9faba0258,sorbed.tickets,available,359.99,488.88,medium,low,6,namesilo,,,10/09/2026 14:27
-de3f48a4-7d49-46e7-b18e-42b2f345f240,amon.tickets,available,393.98,608.98,high,low,4,namecheap,,,18/09/2026 18:27
-542c5551-50a1-4580-84bd-2657fbe6e0b0,lumpen.tickets,available,359.99,389.99,medium,low,6,namesilo,,,24/08/2026 11:14
-a430a767-46d8-4567-bac6-7807d86ceb0d,heretical.tickets,available,359.99,389.99,medium,low,9,namesilo,,,14/08/2026 12:35
-5ef0ffb4-c82e-43e7-bc48-6cc7c70c0f1d,benzedrine.tickets,available,359.99,488.88,medium,low,10,namesilo,,,23/09/2026 08:31
-5e5ff089-54bb-4c19-9c34-0339ef155bff,instruments.tickets,available,359.99,488.88,high,low,11,namesilo,,,25/09/2026 16:57
-9859555d-9086-4cfc-884c-5f6faa20eb1b,unlighted.tickets,available,359.99,488.88,medium,low,9,namesilo,,,12/09/2026 13:01

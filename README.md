@@ -1,10 +1,10 @@
-# Available .TICKETS One-Word Domains (30,538)
+# Available .TICKETS One-Word Domains (32,891)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C538%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C891%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tickets one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,538 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,891 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,538 domains · **Median ask:** $411.93 · **High-demand under $2,500:** 199
+**Public extract:** 1,000 rows · **Live catalog:** 32,891 domains · **Median ask:** $410.70 · **High-demand under $2,500:** 224
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/tickets`
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | ali.tickets  | available | $359.99   | $488.88       | high           | high   | 3      | namesilo  |
 | one.tickets  | premium   | $1,995    | $1,995        | high           | medium | 3      | namesilo  |
-| aps.tickets  | available | $326.21   | $388.33       | high           | low    | 3      | spaceship |
-| pay.tickets  | premium   | $1,875    | —             | high           | medium | 3      | name.com  |
 | aye.tickets  | available | $326.21   | $388.33       | high           | low    | 3      | spaceship |
-| dell.tickets | premium   | $1,995    | $1,995        | high           | medium | 4      | namesilo  |
+| pay.tickets  | premium   | $1,995    | $1,995        | high           | medium | 3      | namesilo  |
 | bar.tickets  | available | $359.99   | $488.88       | high           | low    | 3      | namesilo  |
+| dell.tickets | premium   | $1,995    | $1,995        | high           | medium | 4      | namesilo  |
+| beg.tickets  | available | $393.98   | $608.98       | high           | low    | 3      | namecheap |
 | foot.tickets | premium   | $1,552.70 | $1,552.70     | high           | low    | 4      | spaceship |
-| bbc.tickets  | available | $393.98   | $608.98       | high           | medium | 3      | namecheap |
+| bjs.tickets  | available | $359.99   | $488.88       | medium         | low    | 3      | namesilo  |
 | gray.tickets | premium   | $1,995    | $1,995        | high           | low    | 4      | namesilo  |
-| beg.tickets  | available | $359.99   | $389.99       | high           | low    | 3      | namesilo  |
+| dcs.tickets  | available | $326.21   | $388.33       | high           | low    | 3      | spaceship |
 | keno.tickets | premium   | $1,995    | $1,995        | high           | low    | 4      | namesilo  |
-| bjs.tickets  | available | $359.99   | $488.88       | high           | low    | 3      | namesilo  |
-| lego.tickets | premium   | $1,552.70 | $1,552.70     | high           | high   | 4      | spaceship |
-| cao.tickets  | available | $359.99   | $488.88       | high           | low    | 3      | namesilo  |
-| mars.tickets | premium   | $1,995    | $1,995        | high           | medium | 4      | namesilo  |
 | des.tickets  | available | $359.99   | $488.88       | high           | low    | 3      | namesilo  |
-| most.tickets | premium   | $1,995    | $1,995        | high           | low    | 4      | namesilo  |
+| lego.tickets | premium   | $1,552.70 | $1,552.70     | high           | high   | 4      | spaceship |
 | dvd.tickets  | available | $326.21   | $388.33       | high           | low    | 3      | spaceship |
+| mars.tickets | premium   | $1,995    | $1,995        | high           | medium | 4      | namesilo  |
+| dye.tickets  | available | $393.98   | $608.98       | high           | low    | 3      | namecheap |
+| most.tickets | premium   | $1,995    | $1,995        | high           | low    | 4      | namesilo  |
+| ecg.tickets  | available | $360.97   | $386.71       | high           | low    | 3      | porkbun   |
 | saws.tickets | premium   | $1,995    | $1,995        | medium         | low    | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,538 live domains                        |
+| 1,000-row public sample | 32,891 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 199 high-demand names under $2,500         |
+| Basic exported fields   | 224 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TICKETS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
